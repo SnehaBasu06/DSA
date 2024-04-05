@@ -8,3 +8,12 @@ void nForest(int n) {
 		
 	}
 }
+/*
+Input: ‘N’ = 3
+
+Output: 
+* * *
+* * *
+* * *
+
+*/
