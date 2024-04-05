@@ -7,3 +7,12 @@ void nTriangle(int n) {
 		cout<<"\n";
 	}
 }
+/*
+Input:  ‘N’ = 3
+
+Output: 
+* 
+* *
+* * *
+
+*/
