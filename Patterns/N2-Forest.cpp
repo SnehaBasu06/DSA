@@ -7,3 +7,12 @@ void nForest(int n) {
 		cout<<"\n";
 	}
 }
+/*
+Input:  ‘N’ = 3
+
+Output: 
+* 
+* *
+* * *
+
+*/
